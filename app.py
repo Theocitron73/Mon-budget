@@ -984,7 +984,7 @@ else:
     # Pour qu'il soit créé à chaque rechargement
     selected = option_menu(
         menu_title=None,
-        options=["Analyses", "Prévisionnel", "Gestion", "Import", "Comptes"],
+        options=["Analyses", "Prévisionnel", "Gestion", "Import", "Groupes"],
         icons=["bar-chart-line-fill", "calendar-range-fill", "table", "file-earmark-spreadsheet-fill", "person-fill-gear"], 
         key='menu_main',
         default_index=st.session_state.menu_option,
