@@ -5,3 +5,5 @@ streamlit-option-menu
 st-gsheets-connection
 streamlit-authenticator
 fpdf2
+sqlalchemy
+psycopg2-binary
