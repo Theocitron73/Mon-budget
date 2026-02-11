@@ -7,3 +7,4 @@ streamlit-authenticator
 fpdf2
 sqlalchemy
 psycopg2-binary
+extra_streamlit_components
